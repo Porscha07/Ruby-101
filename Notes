@@ -1,0 +1,28 @@
+Ruby is a true OOP(make as reusable or build friendly as possible) ( very difficult to go procedural)
+4 TENETS OF OOP
+- Encapsulation
+-- bundle all data and methods together
+--Also  hiding stuff that shouldn't be available 
+
+- Abstraction
+-- share what matters, avoid what doesn't
+
+-Inheritance
+--super/subclass
+---car --> Electic Car
+---monster --> Vampire
+---Shape --> Square
+
+-Polymorphism
+--Allows you to use the same code to do different things
+--in terms of inheritance, you have a Shape --> Square, Shape --> Circle
+--shape.draw() AS OPPOSED TO  drawSquare(), drawCircle()
+****************************************************************************************************************
+
+Ruby is a general purpose interpreted language(doesn't compile) like node, php, or python.
+-C based
+- Easy to connect to a DB
+- TONS of gems
+-- gems are --> node/npm(where you get cool stuff/modules other people have made), apt/ubuntu, brew/Mac,plugin/jQuery
+--puts- prints to the screen
+-- irb in the terminal will give you the shell.
